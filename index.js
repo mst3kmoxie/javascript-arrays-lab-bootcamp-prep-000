@@ -37,6 +37,9 @@ function removeLastKitten() {
   return newKittens;
 }
 
+function removeFirstKitten() {
+  
+}
 
 
 
