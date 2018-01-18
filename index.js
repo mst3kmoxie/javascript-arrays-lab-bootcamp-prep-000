@@ -31,3 +31,7 @@ function prependKitten(name) {
   const newLitter = [name, ...kittens];
   return newLitter;
 }
+
+function removeLastKitten() {
+  
+}
